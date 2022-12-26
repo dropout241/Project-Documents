@@ -27,3 +27,4 @@ Below are a list of concepts I intend to learn through this project and concepts
 4. CI/CD (Jenkins?)
 5. Code Coverage
 6. TDD
+7. Authentication/Authorization
